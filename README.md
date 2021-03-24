@@ -1,6 +1,6 @@
 # AssignmentAPI
 
-The framework coonsists of seven test files and one file to create object for Get and Post requests.
+The framework consists of seven test files and one file to create object for Get and Post requests.
 
 In test1, test2, test3, there are get requests which use various methods such as path parameters, query parameters, set headers, body and make assertions by using Path(), JsonPath
 Hamcrest Matchers(chaining), and Assertion class from Rest Assured library.
